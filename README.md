@@ -1,5 +1,7 @@
 # Eth Login Controller
 
+Almost instantly was forked into the alternative [json-rpc-capabilities-middleware](https://github.com/danfinlay/json-rpc-capabilities-middleware).
+
 A module for managing permissions extended to an untrusted domain, and enforcing those permissions over a JSON-RPC API as a middleware function for [json-rpc-engine](https://www.npmjs.com/package/json-rpc-engine).
 
 ## Installation
